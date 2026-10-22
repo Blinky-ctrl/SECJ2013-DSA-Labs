@@ -1,0 +1,9 @@
+# compiled programs and object files
+*.exe
+*.o
+*.obj
+bank
+# editor / IDE folders
+.vscode/
+*.layout
+*.dev
